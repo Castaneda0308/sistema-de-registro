@@ -2,4 +2,6 @@
 
 -Estado del proyecto: En construcción.
 
-Para ejectuar el sistema, debes poner: 
+Para ejectuar el sistema, debes poner: ...
+
+Sistema de registro 2
